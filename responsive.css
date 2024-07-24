@@ -1,0 +1,944 @@
+@media(max-width:1200px) {
+    .pg7 {
+        height: 75vh;
+    }
+
+    .logo img {
+        width: 63%;
+    }
+}
+
+@media(max-width:1151px) {
+    .pg2 {
+        height: 80vh;
+    }
+
+    .pg3 {
+        height: 80vh;
+    }
+
+    .pg4 {
+        height: 80vh;
+    }
+
+    .pg5 {
+        height: 80vh;
+    }
+
+    .pg6 {
+        height: 80vh;
+    }
+
+    .pg7 {
+        height: 72vh;
+    }
+}
+
+@media (max-width:1100px) {
+    .pg2 {
+        height: 77vh;
+    }
+
+    .pg3 {
+        height: 77vh;
+    }
+
+    .pg4 {
+        height: 77vh;
+    }
+
+    .pg5 {
+        height: 77vh;
+    }
+
+    .pg6 {
+        height: 77vh;
+    }
+
+    .pg7 {
+        height: 69vh;
+    }
+
+    .footer {
+        height: 23vh;
+    }
+}
+
+@media(max-width:1051px) {
+    .pg2 {
+        height: 74vh;
+    }
+
+    .pg3 {
+        height: 74vh;
+    }
+
+    .pg4 {
+        height: 74vh;
+    }
+
+    .pg5 {
+        height: 74vh;
+    }
+
+    .pg6 {
+        height: 74vh;
+    }
+
+    .pg7 {
+        height: 67vh;
+    }
+
+    .footer {
+        height: 22vh;
+    }
+}
+
+@media(max-width:1000px) {
+    .head1 {
+        margin-top: 5px;
+    }
+
+    .pg2 {
+        height: 70vh;
+    }
+
+    .pg2 h1 {
+        font-size: 25px;
+    }
+
+    .pg3 {
+        height: 70vh;
+    }
+
+    .pg3 h1 {
+        font-size: 25px;
+    }
+
+    .pg4 {
+        height: 70vh;
+    }
+
+    .pg4 h1 {
+        font-size: 25px;
+    }
+
+    .pg5 {
+        height: 70vh;
+    }
+
+    .pg5 h1 {
+        font-size: 25px;
+    }
+
+    .pg6 {
+        height: 70vh;
+    }
+
+    .pg6 h1 {
+        font-size: 25px;
+    }
+
+    .pg7 {
+        height: 62vh;
+    }
+
+    .pg7 h1 {
+        font-size: 25px;
+    }
+
+    .footer {
+        height: 21vh;
+    }
+}
+
+@media(max-width:951px) {
+    .pg2 {
+        height: 66vh;
+    }
+
+    .pg3 {
+        height: 66vh;
+    }
+
+    .pg4 {
+        height: 66vh;
+    }
+
+    .pg5 {
+        height: 66vh;
+    }
+
+    .pg6 {
+        height: 66vh;
+    }
+
+    .pg7 {
+        height: 59vh;
+    }
+}
+
+@media(max-width:900px) {
+    .pg2 {
+        height: 63vh;
+    }
+
+    .pg3 {
+        height: 63vh;
+    }
+
+    .pg4 {
+        height: 63vh;
+    }
+
+    .pg5 {
+        height: 63vh;
+    }
+
+    .pg6 {
+        height: 63vh;
+    }
+
+    .pg7 {
+        height: 57vh;
+    }
+
+    .footer {
+        height: 20vh;
+    }
+}
+
+@media(max-width:851px) {
+    .pg2 {
+        height: 61vh;
+    }
+
+    .pg3 {
+        height: 61vh;
+    }
+
+    .pg4 {
+        height: 61vh;
+    }
+
+    .pg5 {
+        height: 61vh;
+    }
+
+    .pg6 {
+        height: 61vh;
+    }
+
+    .pg7 {
+        height: 55vh;
+    }
+
+    .footer {
+        height: 19vh;
+    }
+}
+
+@media(max-width:800px) {
+    .head1 {
+        margin-top: 3px;
+    }
+
+    .pg2 {
+        height: 58vh;
+    }
+
+    .pg2 h1 {
+        font-size: 22px;
+    }
+
+    .pg3 {
+        height: 58vh;
+    }
+
+    .pg3 h1 {
+        font-size: 22px;
+    }
+
+    .pg4 {
+        height: 58vh;
+    }
+
+    .pg4 h1 {
+        font-size: 22px;
+    }
+
+    .pg5 {
+        height: 58vh;
+    }
+
+    .pg5 h1 {
+        font-size: 22px;
+    }
+
+    .pg6 {
+        height: 58vh;
+    }
+
+    .pg6 h1 {
+        font-size: 22px;
+    }
+
+    .pg7 {
+        height: 52vh;
+    }
+
+    .pg7 h1 {
+        font-size: 22px;
+    }
+}
+
+@media(max-width:751px) {
+    .pg2 {
+        height: 55vh;
+    }
+
+    .pg2 h1 {
+        font-size: 20px;
+    }
+
+    .pg3 {
+        height: 55vh;
+    }
+
+    .pg3 h1 {
+        font-size: 20px;
+    }
+
+    .pg4 {
+        height: 55vh;
+    }
+
+    .pg4 h1 {
+        font-size: 20px;
+    }
+
+    .pg5 {
+        height: 55vh;
+    }
+
+    .pg5 h1 {
+        font-size: 20px;
+    }
+
+    .pg6 {
+        height: 55vh;
+    }
+
+    .pg6 h1 {
+        font-size: 20px;
+    }
+
+    .pg7 {
+        height: 49vh;
+    }
+
+    .pg7 h1 {
+        font-size: 20px;
+    }
+
+    .footer {
+        height: 18vh;
+    }
+}
+
+@media(max-width:700px) {
+    nav{
+        height: 6vh;
+    }
+    nav ul {
+        margin-top: 5px;
+        font-size: 17px;
+    }
+    .logo img {
+        width: 58%;
+    }
+
+    .pg2 {
+        height: 51vh;
+    }
+
+    .pg3 {
+        height: 51vh;
+    }
+
+    .pg4 {
+        height: 51vh;
+    }
+
+    .pg5 {
+        height: 51vh;
+    }
+
+    .pg6 {
+        height: 51vh;
+    }
+
+    .pg7 {
+        height: 47vh;
+    }
+
+    .footer {
+        height: 17vh;
+    }
+    .head7{
+        font-size: 25px;
+    }
+}
+
+@media(max-width:651px) {
+    .head1 {
+        font-size: 25px;
+    }
+    .pg2 h1 {
+        font-size: 18px;
+    }
+    .card button{
+        padding: 7px;
+    }
+    .pg2 {
+        height: 47vh;
+    }
+
+    .head2 {
+        font-size: 25px;
+    }
+    .pg3 h1 {
+        font-size: 18px;
+    }
+    .pg3 {
+        height: 47vh;
+    }
+
+    .head3 {
+        font-size: 25px;
+    }
+    .pg4 h1 {
+        font-size: 18px;
+    }
+    .pg4 {
+        height: 47vh;
+    }
+
+    .head4 {
+        font-size: 25px;
+    }
+    .pg5 h1 {
+        font-size: 18px;
+    }
+    .pg5 {
+        height: 47vh;
+    }
+
+    .head5 {
+        font-size: 25px;
+    }
+    .pg6 h1 {
+        font-size: 18px;
+    }
+    .pg6 {
+        height: 47vh;
+    }
+
+    .head6 {
+        font-size: 25px;
+    }
+    .pg7 h1 {
+        font-size: 18px;
+    }
+    .pg7 {
+        height: 43vh;
+    }
+
+    .head7 {
+        font-size: 23px;
+    }
+
+    .footer {
+        height: 16vh;
+    }
+}
+
+@media(max-width:600px){
+    nav ul{
+        font-size: 15px;
+    }
+    .logo img {
+        width: 59%;
+    }
+    .head1 {
+        margin-top: 1px;
+        font-size: 23px;
+    }
+    .pg2 {
+        height: 42vh;
+    }
+    .pg2 h1 {
+        font-size: 16px;
+    }
+    .price{
+        font-size: 17px;
+    }
+    .card button{
+        font-size: 15px;
+    }
+
+    .head2 {
+        font-size: 23px;
+    }
+    .pg3 h1 {
+        font-size: 16px;
+    }
+    .pg3 {
+        height: 42vh;
+    }
+
+    .head3 {
+        font-size: 23px;
+    }
+    .pg4 h1 {
+        font-size: 16px;
+    }
+    .pg4 {
+        height: 42vh;
+    }
+
+    .head4 {
+        font-size: 23px;
+    }
+    .pg5 h1 {
+        font-size: 16px;
+    }
+    .pg5 {
+        height: 42vh;
+    }
+
+    .head5 {
+        font-size: 23px;
+    }
+    .pg6 h1 {
+        font-size: 16px;
+    }
+    .pg6 {
+        height: 42vh;
+    }
+
+    .head6 {
+        font-size: 23px;
+    }
+    .pg7 h1 {
+        font-size: 16px;
+    }
+    .pg7 {
+        height: 38vh;
+    }
+
+    .head7 {
+        font-size: 20px;
+    }
+    .footer {
+        height: 18vh;
+    }
+    .foot img {
+        width: 18%;
+        padding: 5px;
+    }
+    .foot1 img {
+        width: 28%;
+    }
+}
+
+@media(max-width:551px) {
+    .logo img {
+        width: 60%;
+    }
+    nav ul {
+        font-size: 14px;
+    }
+    .pg2 h1 {
+        font-size: 14px;
+    }
+    .price{
+        font-size: 14px;
+    }
+    .card button {
+        font-size: 13px;
+    }
+    .pg2 {
+        height: 38vh;
+    }
+
+    .pg3 h1 {
+        font-size: 14px;
+    }
+    .pg3 {
+        height: 38vh;
+    }
+
+    .pg4 h1 {
+        font-size: 14px;
+    }
+    .pg4 {
+        height: 38vh;
+    }
+
+    .pg5 h1 {
+        font-size: 14px;
+    }
+    .pg5 {
+        height: 38vh;
+    }
+
+    .pg6 h1 {
+        font-size: 14px;
+    }
+    .pg6 {
+        height: 38vh;
+    }
+
+    .pg7 h1 {
+        font-size: 14px;
+    }
+    .pg7 {
+        height: 35vh;
+    }
+    .footer {
+        height: 17vh;
+    }
+}
+
+@media(max-width:500px) {
+    .logo img {
+        width: 62%;
+    }
+    nav ul {
+        font-size: 12px;
+        margin-top: 7px;
+    }
+    .head1{
+        font-size: 20px;
+    }
+    .pg2 h1 {
+        font-size: 12px;
+    }
+    .price {
+        font-size: 13px;
+    }
+    .card button {
+        font-size: 11px;
+    }
+    .pg2 {
+        height: 34vh;
+    }
+    .pg3 h1 {
+        font-size: 12px;
+    }
+    .head2 {
+        font-size: 20px;
+    }
+
+    .pg3 {
+        height: 34vh;
+    }
+    .pg4 h1 {
+        font-size: 12px;
+    }
+    .head3 {
+        font-size: 20px;
+    }
+    .pg4 {
+        height: 34vh;
+    }
+
+    .head4 {
+        font-size: 20px;
+    }
+    .pg5 h1 {
+        font-size: 12px;
+    }
+    .pg5 {
+        height: 34vh;
+    }
+
+    .head5 {
+        font-size: 20px;
+    }
+    .pg6 h1 {
+        font-size: 12px;
+    }
+    .pg6 {
+        height: 34vh;
+    }
+
+    .head6 {
+        font-size: 20px;
+    }
+    .pg7 h1 {
+        font-size: 12px;
+    }
+    .pg7 {
+        height: 31vh;
+    }
+    .footer {
+        height: 16vh;
+    }
+    .footer p{
+        font-size: 14px;
+    }
+}
+
+@media(max-width:451px) {
+    .logo img {
+        display: none;
+    }
+    nav {
+        height: 5vh;
+    }
+    nav ul {
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    .pg2 h1 {
+        font-size: 11px;
+    }
+    .pg2 {
+        height: 31vh;
+    }
+    
+    .pg3 h1 {
+        font-size: 11px;
+    }
+    .pg3 {
+        height: 31vh;
+    }
+
+    .pg4 h1 {
+        font-size: 11px;
+    }
+    .pg4 {
+        height: 31vh;
+    }
+
+    .pg5 h1 {
+        font-size: 11px;
+    }
+    .pg5 {
+        height: 31vh;
+    }
+
+    .pg6 h1 {
+        font-size: 11px;
+    }
+    .pg6 {
+        height: 31vh;
+    }
+
+    .head7{
+        font-size: 17px;
+    }
+    .pg7 h1 {
+        font-size: 11px;
+    }
+    .pg7 {
+        height: 28vh;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+    .footer{
+        height: 14vh;
+    }
+}
+
+@media(max-width:400px) {
+    .head1 {
+        font-size: 17px;
+    }
+    .pg2 {
+        height: 28vh;
+    }
+
+    .head2 {
+        font-size: 17px;
+    }
+    .pg3 {
+        height: 28vh;
+    }
+
+    .head3 {
+        font-size: 17px;
+    }
+    .pg4 {
+        height: 28vh;
+    }
+
+    .head4 {
+        font-size: 17px;
+    }
+    .pg5 {
+        height: 28vh;
+    }
+
+    .head5 {
+        font-size: 17px;
+    }
+    .pg6 {
+        height: 28vh;
+    }
+
+    .head6 {
+        font-size: 17px;
+    }
+    .pg7 {
+        height: 26vh;
+    }
+
+    .head7 {
+        font-size: 15px;
+    }
+
+    .pg2 h1 {
+        font-size: 9px;
+    }
+
+    .pg3 h1 {
+        font-size: 9px;
+    }
+
+    .pg4 h1 {
+        font-size: 9px;
+    }
+
+    .pg5 h1 {
+        font-size: 9px;
+    }
+
+    .pg6 h1 {
+        font-size: 9px;
+    }
+
+    .pg7 h1 {
+        font-size: 9px;
+    }
+
+    .price{
+        font-size: 11px;
+    }
+    .card button {
+        font-size: 10px;
+    }
+
+    .footer {
+        height: 13vh;
+    }
+    .footer p {
+        font-size: 11px;
+    }
+}
+
+@media(max-width:351px) {
+    nav ul {
+        font-size: 9px;
+        margin-top: 2px;
+    }
+    nav{
+        height: 4vh;
+    }
+    .price {
+        font-size: 9px;
+    }
+    .card button {
+        font-size: 7px;
+    }
+    .head1 {
+        font-size: 14px;
+    }
+    .pg2 h1 {
+        font-size: 7px;
+    }
+    .pg2 {
+        height: 23vh;
+    }
+    .head2 {
+        font-size: 14px;
+    }
+    .pg3 h1 {
+        font-size: 7px;
+    }
+    .pg3 {
+        height: 23vh;
+    }
+    .head3 {
+        font-size: 14px;
+    }
+    .pg4 h1 {
+        font-size: 7px;
+    }
+    .pg4 {
+        height: 23vh;
+    }
+    .head4 {
+        font-size: 14px;
+    }
+    .pg5 h1 {
+        font-size: 7px;
+    }
+    .pg5 {
+        height: 23vh;
+    }
+    .head5 {
+        font-size: 14px;
+    }
+    .pg6 h1 {
+        font-size: 7px;
+    }
+    .pg6 {
+        height: 23vh;
+    }
+    .head6 {
+        font-size: 14px;
+    }
+    .pg7 h1 {
+        font-size: 7px;
+    }
+    .pg7 {
+        height: 21vh;
+    }
+    .head7 {
+        font-size: 12px;
+    }
+    .footer p {
+        font-size: 10px;
+    }
+    .footer {
+        height: 12vh;
+    }
+}
+
+@media(max-width:300px) {
+    .pg2 {
+        height: 20vh;
+    }
+    .pg3 {
+        height: 20vh;
+    }
+    .pg4 {
+        height: 20vh;
+    }
+    .pg5 {
+        height: 20vh;
+    }
+    .pg6 {
+        height: 20vh;
+    }
+    .pg7 {
+        height: 19vh;
+    }
+    .footer {
+        height: 11vh;
+    }
+}

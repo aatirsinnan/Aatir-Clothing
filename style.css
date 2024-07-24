@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    height: 7vh;
+    padding-top: 5px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 7px;
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+}
+
+ul a {
+    list-style: none;
+    text-decoration: none;
+}
+
+li {
+    color: black;
+}
+
+.logo img {
+    width: 65%;
+    padding-left: 10px;
+}
+
+.background img {
+    width: 100%;
+    background-size: cover;
+
+}
+
+.head {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    color: wheat;
+    /* background-color: blue; */
+    /* padding: 5px; */
+}
+
+.pg2 {
+    display: flex;
+    width: 100%;
+    height: 85vh;
+}
+
+.head1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.card {
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
+    width: 100%;
+    /* height: 50vh; */
+    text-align: center;
+    font-family: arial;
+    padding: 10px;
+}
+
+
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.9;
+}
+
+.head2 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.pg3 {
+    display: flex;
+    width: 100%;
+    height: 85vh;
+}
+
+.head3 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.pg4 {
+    display: flex;
+    width: 100%;
+    height: 85vh;
+}
+
+.head4 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.pg5 {
+    display: flex;
+    width: 100%;
+    height: 85vh;
+}
+
+.head5 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.pg6 {
+    display: flex;
+    width: 100%;
+    height: 85vh;
+}
+
+.head6 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.pg7 {
+    display: flex;
+    width: 100%;
+    height: 70vh;
+}
+
+.head7{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.footer {
+    width: 100%;
+    height: 24vh;
+    background-color: white;
+    text-align: center;
+}
+
+.foot img {
+    width: 14%;
+    padding: 10px;
+}
+
+.foot1 img {
+    width: 18%;
+}
